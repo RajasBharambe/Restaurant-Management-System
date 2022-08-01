@@ -4,13 +4,7 @@ class hotelfarecal:
 
         print ("\n\n*****WELCOME TO TECHNOFREAK 88 HOTEL*****\n")
 
-        self.rt=rt
 
-        self.r=r
-
-        self.t=t
-
-        self.p=p
 
         self.s=s
         self.a=a
