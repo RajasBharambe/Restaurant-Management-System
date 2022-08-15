@@ -1,1 +1,1 @@
-# Hotel-Management-System-in-Python
+# Restaurant Management System
