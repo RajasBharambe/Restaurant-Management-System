@@ -1,4 +1,5 @@
 
+class hotelfarecal:
     def __init__(self,rt='',s=0,p=0,r=0,t=0,a=1800,name='',address='',cindate='',coutdate='',rno=101):
 
         print ("\n\n*****WELCOME TO TECHNOFREAK HOTEL*****\n")
