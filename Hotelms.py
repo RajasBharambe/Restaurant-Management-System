@@ -1,5 +1,5 @@
 
-class hotelfarecal:
+
 
 
         print ("\n\n*****WELCOME TO TECHNOFREAK HOTEL*****\n")
